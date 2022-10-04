@@ -1,4 +1,2 @@
-# Adventures In Automation
-
-## Quick Links
+# Quick Links
 - *Nothing yet*
